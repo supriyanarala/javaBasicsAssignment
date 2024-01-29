@@ -1,3 +1,5 @@
+//Project Created by Supriya
+
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
@@ -11,12 +13,15 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) throws IOException {
 
+        //creating an array list
         List<String> mydata = new ArrayList();
         mydata.add("1.Register");
         mydata.add("2.Book Vacation");
         mydata.add("3.Display all vacations");
         mydata.add("4.Generate Bill");
         mydata.add("5.Thank you");
+
+        //Looping the data
 
         for (int i = 0; i < mydata.size(); i++) {
             System.out.println(mydata.get(i));
