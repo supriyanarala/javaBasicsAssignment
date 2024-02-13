@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="org.eclipse.scout.json-24.1.0-beta.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/jar_files/org.eclipse.scout.json-24.1.0-beta.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Notes/Java/java-json.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Notes/Java/json-lib-2.4-jdk15.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../Notes/Java/java-json.jar!/" />
+    </SOURCES>
+  </library>
+</component>
